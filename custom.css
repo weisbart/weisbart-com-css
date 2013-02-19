@@ -1,0 +1,318 @@
+@import url("/~weisbart/blog/webfontkit/stylesheet.css");
+.em-location-map, .em-locations-map { width: 100% !important; height: 250px !important; }
+
+/* this seems like a hack */
+.woocommerce_message {
+  font-size: 1.4em;
+}
+/* this seems like a hack */
+.woocommerce_message .button {
+	font-size: 0.7em;
+}
+
+.woo-sc-hr, .woo-sc-divider {
+  padding-top: 0;
+}
+
+p.woo-sc-box.normal, div.woo-sc-box.normal {
+  background-color: #F3F4FC;
+  border-color: #ECECEC;
+}
+
+#main .upcoming h2 {
+  color: #3471A3;
+  font-family: 'arvil_sansregular','Open Sans',sans-serif;
+  font-size: 2em;
+  margin-bottom: 0.1em;
+  margin-top: -0.3em;
+  padding-top: 0;
+  text-align: center;
+}
+
+span.shortcode-highlight {
+  background: none repeat scroll 0 0 #FEF6D2;
+}
+
+img.wp-image-1647, img.wp-image-624 {
+  background: none;
+  border: none;
+  border-radius: none;
+  box-shadow: none;
+  height: auto;
+  max-width: 100%;
+  padding: none;
+  margin: none;
+}
+.single-product .summary .price {
+  color: #3471A3;
+}
+
+.quantity .plus, .quantity .minus {
+  background: none repeat scroll 0 0 #3471A3 !important;
+}
+#header .nav-toggle:after {
+  background: none repeat scroll 0 0 padding-box #3471A3;
+  color: #FFFFFF;
+}
+
+#twitter-3 h3 a{
+	color: #3471A3 !important;
+}
+.woo-pagination .page-numbers.current {
+	color: #DF673F;
+  background: none repeat scroll 0 0 #EDEDED;
+}
+img.wp-image-1381 {
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: none;
+	border-radius: none;
+	box-shadow: none;
+	height: auto;
+	max-width: 100%;
+	padding: 0.327em;
+	float: right;
+}
+
+body {
+  font-size: 1.5em;
+  line-height: 1.3;
+  color: #818181;
+  font-family: 'fagocoregular', Helvetica, Arial, sans-serif;
+}
+
+#comments .comment .comment-entry {
+	font-size: 1em;
+}
+
+#comments h3 {
+	font-family: 'fagocoregular', Helvetica, Arial, sans-serif;
+}
+
+#respond {
+	font-family: 'fagocoregular', Helvetica, Arial, sans-serif;
+}
+
+#header #logo:active {
+  padding-top: .236em;
+  -webkit-transition: all ease-in-out 0.2s;
+  -moz-transition: all ease-in-out 0.2s;
+  -ms-transition: all ease-in-out 0.2s;
+  -o-transition: all ease-in-out 0.2s;
+  transition: all ease-in-out 0.2s;
+}
+#header {
+  background: #ffffff;
+  padding: 0 0 0;
+}
+
+#main header h1 a {
+	color: #3471A3 !important;
+}
+
+#top-section {
+  margin: 0 0 2.618em;
+  padding: 1.681em 0;
+  background-image:url('/~weisbart/blog/wp-content/uploads/2013/01/header-back.png');
+  background-repeat:repeat-x;
+  border: none;
+  border-width: 1px 0 0 0;
+  background-color: #aec8d7;
+}
+
+#top-section header h1 {
+    color: #FFFFFF;
+    font-family: 'arvil_sansregular', 'Open Sans',sans-serif;
+    letter-spacing: 0.02em;
+    font-size: 3.22em;
+    line-height: .82em;
+    margin: 0;
+    text-shadow: none;
+}
+#top-section #breadcrumbs {
+	color: #FFFFFF;
+	font-weight: 300;
+}
+
+#top-section #breadcrumbs a {
+	color: #FFFFFF !important;	
+}
+
+#featured-slider {
+  background: none repeat scroll 0 0 #235073;
+  box-shadow: 0 4px 10px 0 #173349 inset;
+  min-height: 330px;
+}
+
+#featured-slider header h1 {
+  font-family: 'arvil_sansregular', 'Open Sans',sans-serif;
+  font-size: 3.1em;
+  letter-spacing: 0.02em;
+  padding-top: 0.8em;
+}
+
+#featured-slider .slide-content {
+	padding-left: 2em;
+}
+#featured-slider .entry h2 {
+	font-size: 1.7em;
+	font-family: 'fagocoregular', Helvetica, Arial, sans-serif;
+}
+
+#featured-slider .flex-direction-nav a {
+	background: none;
+}
+
+body.has-slider #header,
+body.has-top-section #header {
+  margin: 0;
+  padding: 1em 2em 0;
+}
+#header .header-right {
+    float: right;
+    margin: 0 0 0;
+}
+
+
+#header ul.cart li a.cart-contents span {
+    background: none repeat scroll 0 0 padding-box #3471a3;
+}
+
+#header ul.cart {
+    border-left: 1px dotted #3471a3;
+}
+
+#header ul.cart li a.cart-contents:hover span {
+    background: none repeat scroll 0 0 #DF673F;
+		text-decoration: none;
+}
+
+#navigation a {
+    color: #373737 !important;
+}
+#navigation ul.nav > li a {
+    border: 0 none;
+    color: #D8D2DF;
+    margin: 0;
+    padding: 0.327em 1em 0.4em;
+    text-shadow: none;
+}
+#navigation ul.nav > li a:hover {
+    text-decoration: underline;
+}
+#navigation ul.nav > li:hover {
+    background: none;
+    border-radius: none;
+}
+
+#navigation ul.nav > li.current_page_item a, #navigation ul.nav > li.current_page_parent a, #navigation ul.nav > li.current-menu-ancestor a, #navigation ul.nav > li.current-cat a, #navigation ul.nav > li.li.current-menu-item a {
+    background: none repeat scroll 0 0 padding-box #ededed;
+    border-radius: 0.327em 0.327em 0.327em 0.327em;
+}
+
+a:hover, .post-more a:hover, .post-meta a:hover, .post p.tags a:hover {
+    color: #BC502D !important;
+}
+
+#main h1,
+#main h2,
+#main h3,
+#main h4,
+#main h5,
+#main h6 {
+  font-family: 'fagocoregular', Helvetica, Arial, sans-serif;
+}
+
+strong {
+    font-weight: bold;
+}
+
+#main .widget_woothemes_features .feature h3 a {
+    color: #323232;
+    font-family: 'fagocoregular', Helvetica, Arial, sans-serif;
+}
+#main .widget_woothemes_testimonials h2 {
+  color: #3471A3;
+  font-family: 'arvil_sansregular', 'Open Sans',sans-serif;
+  font-size: 2.244em;
+
+}
+#footer-wrapper {
+  font-size: 1em;
+}
+
+#comments .comment .reply a {
+  background: none !important;
+  border: 0;
+  text-shadow: none;
+  margin: 0;
+  padding: 0;
+  font-weight: bold !important;
+  box-shadow: 0 0 0 0 #888888;
+  -webkit-box-shadow: 0 0 0 0 #888888;
+}
+#comments .comment .reply a:hover {
+  text-decoration: underline;
+}
+
+a.button,
+a.comment-reply-link,
+#commentform #submit,
+.submit,
+input[type=submit],
+input.button,
+button.button,
+#wrapper .woo-sc-button {
+  background: #3471A3;
+  color: #ffffff !important;
+}
+
+.post .post-meta li.post-author a,
+.type-page .post-meta li.post-author a,
+.type-feature .post-meta li.post-author a,
+.type-testimonial .post-meta li.post-author a,
+.search-results .page .post-meta li.post-author a,
+.search-results .type-product .post-meta li.post-author a,
+.search-results .type-feature .post-meta li.post-author a,
+.search-results .type-testimonial .post-meta li.post-author a {
+  color: #3471A3;
+}
+
+.single-product .summary .single_add_to_cart_button {
+  background: none repeat scroll 0 0 #3471A3;
+}
+
+.star-rating span {
+    -moz-box-sizing: border-box;
+    background: none repeat scroll 0 0 padding-box #bdd8e7;
+    border-radius: 3.631em 3.631em 3.631em 3.631em;
+    float: left;
+    height: 100%;
+    overflow: hidden;
+    text-indent: -999em;
+}
+
+.widget h3 {
+  color: #3471A3;
+  font-family: arvil_sansregular;
+  font-size: 1.9em;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+  margin: 0 0 1px;
+}
+
+.wooslider ul.slides {margin: 0;}
+
+.wooslider .slides .slide .slide-content img {
+	padding: 0px;
+}
+
+body .wooslider .slide .slide-content {
+	margin: 0px;
+}
+
+.slide-content p {
+	margin: 0px;
+}
+.entry .shortcode-unorderedlist.tick ul li, .shortcode-unorderedlist.tick ul li {
+  padding-bottom: 1.4em;
+}
