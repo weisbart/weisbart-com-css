@@ -1,4 +1,4 @@
-@import url("/~weisbart/blog/webfontkit/stylesheet.css");
+@import url("/webfontkit/stylesheet.css");
 .em-location-map, .em-locations-map { width: 100% !important; height: 250px !important; }
 
 /* this seems like a hack */
@@ -112,7 +112,7 @@ body {
 #top-section {
   margin: 0 0 2.618em;
   padding: 1.681em 0;
-  background-image:url('/~weisbart/blog/wp-content/uploads/2013/01/header-back.png');
+  background-image:url('/wp-content/uploads/2013/01/header-back.png');
   background-repeat:repeat-x;
   border: none;
   border-width: 1px 0 0 0;
